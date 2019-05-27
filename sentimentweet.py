@@ -2,7 +2,7 @@
 import tweepy
 from textblob import TextBlob
 
-# authentication for access to twitter data
+#  authentication for access to twitter data
 
 consumer_key = 'hdaUFMqwwKxDxyXAgVUuURGah'
 consumer_secret = 'Kooem1R2n86dcOPhImnxwCO3XdVWE7HNJBk9zKUKmC3X5XvAR8'
